@@ -13,7 +13,8 @@ A web-based application for diabetes risk assessment and data analysis using mac
 1. **Clone the Repository** 
    ```bash
    git clone https://github.com/amr21ss/CLS_AI_PROJECT.git
-   cd depi_diabetes_project
+   cd CLS_AI_PROJECT
+   cd Phase2
    ```
 
 2. **Create and Activate a Virtual Environment**:
